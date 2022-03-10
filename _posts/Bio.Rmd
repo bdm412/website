@@ -1,0 +1,6 @@
+---
+title: "Bio"
+output: html_document
+---
+
+Look: that's me! In the hardhat! I know, it's my spitting image. Enjoy your time on my website.
